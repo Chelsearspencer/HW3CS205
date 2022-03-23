@@ -1,0 +1,126 @@
+is string array list empty:
+false
+
+is book array list empty:
+false
+
+(1) removed from string array list :
+West Long Branch
+
+(1) removed from book array list :
+book title: Data Structures and Algorithms type: SOFTBACK number of pages: 426
+
+string array list size:
+6
+
+book array list size:
+14
+
+iterator for string ArrayList:
+Monmouth University
+February
+Cloud Computing
+Data Structures
+MacBook
+Spacex
+
+
+iterator for string LinkedList
+Monmouth University
+West Long Branch
+February
+Cloud Computing
+Data Structures
+MacBook
+Spacex
+
+
+ListIterator for string ArrayList (reverse)
+Spacex
+MacBook
+Data Structures
+Cloud Computing
+February
+Monmouth University
+
+
+ ListIterator for string LinkedList (reverse)
+Spacex
+MacBook
+Data Structures
+Cloud Computing
+February
+West Long Branch
+Monmouth University
+
+
+iterator fir book ArrayList
+book title: The Lord of the Rings type: HARDBACK number of pages: 120
+book title: The Hobbit type: HARDBACK number of pages: 212
+book title: Harry Potter and the Goblet of Fire type: ELECTRONIC number of pages: -9
+book title: The Da Vinci Code type: HARDBACK number of pages: 253
+book title: And Then There Were None type: SOFTBACK number of pages: 156
+book title: Harry Potter and the Prisoner of Azkaban type: HARDBACK number of pages: 546
+book title: Harry Potter and the Half-Blood Prince type: ELECTRONIC number of pages: 439
+book title: And Then There Were None type: HARDBACK number of pages: 156
+book title: Opus 200 type: HARDBACK number of pages: 320
+book title: The Soloman Curse type: HARDBACK number of pages: 829
+book title:  type: HARDBACK number of pages: 92
+book title: American Sniper type: HARDBACK number of pages: 320
+book title: The Girl on the Train type: SOFTBACK number of pages: 391
+book title: Citizen Soldier type: HARDBACK number of pages: 231
+
+
+iterator for book LinkedList
+book title: The Lord of the Rings type: HARDBACK number of pages: 120
+book title: Data Structures and Algorithms type: SOFTBACK number of pages: 426
+book title: The Hobbit type: HARDBACK number of pages: 212
+book title: Harry Potter and the Goblet of Fire type: ELECTRONIC number of pages: -9
+book title: The Da Vinci Code type: HARDBACK number of pages: 253
+book title: And Then There Were None type: SOFTBACK number of pages: 156
+book title: Harry Potter and the Prisoner of Azkaban type: HARDBACK number of pages: 546
+book title: Harry Potter and the Half-Blood Prince type: ELECTRONIC number of pages: 439
+book title: And Then There Were None type: HARDBACK number of pages: 156
+book title: Opus 200 type: HARDBACK number of pages: 320
+book title: The Soloman Curse type: HARDBACK number of pages: 829
+book title:  type: HARDBACK number of pages: 92
+book title: American Sniper type: HARDBACK number of pages: 320
+book title: The Girl on the Train type: SOFTBACK number of pages: 391
+book title: Citizen Soldier type: HARDBACK number of pages: 231
+
+
+ListIterator for bookArrayList (reverse)
+book title: Citizen Soldier type: HARDBACK number of pages: 231
+book title: The Girl on the Train type: SOFTBACK number of pages: 391
+book title: American Sniper type: HARDBACK number of pages: 320
+book title:  type: HARDBACK number of pages: 92
+book title: The Soloman Curse type: HARDBACK number of pages: 829
+book title: Opus 200 type: HARDBACK number of pages: 320
+book title: And Then There Were None type: HARDBACK number of pages: 156
+book title: Harry Potter and the Half-Blood Prince type: ELECTRONIC number of pages: 439
+book title: Harry Potter and the Prisoner of Azkaban type: HARDBACK number of pages: 546
+book title: And Then There Were None type: SOFTBACK number of pages: 156
+book title: The Da Vinci Code type: HARDBACK number of pages: 253
+book title: Harry Potter and the Goblet of Fire type: ELECTRONIC number of pages: -9
+book title: The Hobbit type: HARDBACK number of pages: 212
+book title: The Lord of the Rings type: HARDBACK number of pages: 120
+
+
+ListIterator for book LinkedList (reverse)
+book title: Citizen Soldier type: HARDBACK number of pages: 231
+book title: The Girl on the Train type: SOFTBACK number of pages: 391
+book title: American Sniper type: HARDBACK number of pages: 320
+book title:  type: HARDBACK number of pages: 92
+book title: The Soloman Curse type: HARDBACK number of pages: 829
+book title: Opus 200 type: HARDBACK number of pages: 320
+book title: And Then There Were None type: HARDBACK number of pages: 156
+book title: Harry Potter and the Half-Blood Prince type: ELECTRONIC number of pages: 439
+book title: Harry Potter and the Prisoner of Azkaban type: HARDBACK number of pages: 546
+book title: And Then There Were None type: SOFTBACK number of pages: 156
+book title: The Da Vinci Code type: HARDBACK number of pages: 253
+book title: Harry Potter and the Goblet of Fire type: ELECTRONIC number of pages: -9
+book title: The Hobbit type: HARDBACK number of pages: 212
+book title: Data Structures and Algorithms type: SOFTBACK number of pages: 426
+book title: The Lord of the Rings type: HARDBACK number of pages: 120
+
+
